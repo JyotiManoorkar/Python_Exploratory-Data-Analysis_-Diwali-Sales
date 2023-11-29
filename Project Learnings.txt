@@ -1,0 +1,8 @@
+Completed Diwali Sales Data Analysis with Python.
+
+Completed Tasks as below
+
+Persormed data Cleaning and manpulation.
+Perfomed Exploratory data Analysis(EDA) using pndas, matplotlib and seaborn libraries.
+Improved Customer experience by identifying petential customers across different states, occupation, gender, age groups.
+Improves sales by identifying most selling product categories and products which can help to plan inventory and hence meety demands 
